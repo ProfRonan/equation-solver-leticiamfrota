@@ -22,7 +22,7 @@ if grau == 2:
         if delta < 0:
             print('A equação não possui raízes reais')
         if delta == 0:
-            print('A equação possui apenas uma raiz real')
+            print('A equação possui uma raiz real')
             x = (-b + (delta**0.5))/2*a
             print(f'{x:.2f}')
         if delta > 0:
