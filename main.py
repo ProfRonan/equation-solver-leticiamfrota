@@ -1,4 +1,4 @@
-grau = int(input())
+grau = int(input()) 
 if grau < 1 or grau > 2:
     print('Grau inválido')
 if grau == 1:
